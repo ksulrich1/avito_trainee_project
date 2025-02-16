@@ -30,7 +30,7 @@ Medium.
 Объявление не создается через веб-интерфейс, но создается через **Postman**.
 
 ### Вложения
-[Postman](EXTRA/create_with_empty_field_response.json)
+[Postman](extra/create_with_empty_field_response.json)
 
 
 
@@ -242,4 +242,4 @@ High.
 High.
 
 ### Вложения
-![Скриншот ошибки](EXTRA/description_bug.png)
+![Скриншот ошибки](extra/description_bug.png)
